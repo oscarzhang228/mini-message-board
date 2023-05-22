@@ -1,4 +1,4 @@
-function Popup(props) {
+function PopupNew(props) {
   const createMessage = () => {
     props.createMessageDOM(
       document.getElementById("header").value,
@@ -54,4 +54,4 @@ function Popup(props) {
   );
 }
 
-export default Popup;
+export default PopupNew;

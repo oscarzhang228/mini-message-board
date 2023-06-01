@@ -2,7 +2,8 @@ function PopupNew(props) {
   const createMessage = () => {
     props.createMessageDOM(
       document.getElementById("header").value,
-      document.getElementById("message").value
+      document.getElementById("message").value,
+      document.getElementById("identifier").value
     );
     props.exit();
   };

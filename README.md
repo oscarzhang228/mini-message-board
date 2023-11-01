@@ -26,7 +26,7 @@ Technologies<br>
 -Node.js<br>
 -MongoDB<br>
 -HTML<br>
--CSS (with SASS for preprocessing)<br>
+-CSS<br>
 -Bootstrap<br>
 -Git (for version control)<br>
 
